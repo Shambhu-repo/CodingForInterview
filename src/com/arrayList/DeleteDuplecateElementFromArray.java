@@ -6,8 +6,8 @@ public class DeleteDuplecateElementFromArray {
 		
 	}
 	
-	public static int[] deleteDuplicate(int[] arrays,int n) {
-		return arrays;
+	public static int[] deleteDuplicate(int[] array,int n) {
+		return array;
 		
 		
 	}
