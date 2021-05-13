@@ -7,6 +7,7 @@ public class DeleteDuplecateElementFromArray {
 	}
 	
 	public static int[] deleteDuplicate(int[] array,int n) {
+		System.out.println(" this is for testing to push into debug and merge into master");
 		return array;
 		
 		
